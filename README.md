@@ -34,7 +34,7 @@
     ``` gradle
     dependencies {
       ... 
-	    implementation 'com.github.SibaniKrishnaChoudhury-255:StaticPage:1.0.0'
+	    implementation 'com.github.PremMehta01:StaticPage:1.0.0'
     }
     ```
 
